@@ -1,0 +1,15 @@
+@import "~antd/dist/antd.css";
+
+.App {
+    text-align: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.App-header h1 {
+    color: whitesmoke;
+}
+.App-content {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
